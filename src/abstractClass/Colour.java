@@ -8,7 +8,7 @@ public abstract class Colour {
 		System.out.println("colour-darkEdition");
 	}
 	
-	public void darkEdition1() {
+	public void darkEdition2() {
 		System.out.println("colour-darkEdition");
 	}
 }
